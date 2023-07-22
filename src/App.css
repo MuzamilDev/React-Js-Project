@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  background-color: #555A54;
+}
+.IMG1{
+  height: 50px;
+  width: 320px;
+}
+.IMG2{
+  height: 90px;
+  width: 600px;
+}
+.IMG3{
+  height: 105px;
+  width: 750px;
+}
+ .IMG{
+  height: 150px;
+  width: 850px;
+ }
+h3{
+  font-size: 17px;
+  font-family: 'Lumanosimo', cursive;
+  color:#FBC7D4;
+}
+h5{
+  font-size: 20px;
+  font-family: 'Lumanosimo', cursive;
+  color:#FBC7D4;
+}
+@media (max-width:991px) {
+  h3{
+    font-size: 12px;
+  }
+  h5{
+    font-size: 15px;
+  }
+}
+
